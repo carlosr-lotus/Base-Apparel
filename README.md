@@ -13,3 +13,12 @@ Base Apparel foi criado para aprimorar minhas habilidades com HTML/CSS and Javas
 # Website's Design
 
 - The images below are screenshots/as imagens abaixo são screenshots.
+
+## Desktop
+![](design/base-apparel-desktop.png)
+
+## Mobile
+![](design/base-apparel-mobile.png)
+
+## Active JS
+![](design/base-apparel-active.png)
